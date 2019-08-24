@@ -1,3 +1,3 @@
 # UnityXOGame
-Unity XO Game Project With Min Max Algorithm 
-![UnityXOGame](https://github.com/komeilshahmoradi/UnityXOGame/Showcase/001.png)
+Unity XO Game Project With Min Max Algorithm \n
+![UnityXOGame](https://github.com/komeilshahmoradi/UnityXOGame/blob/master/Showcase/001.PNG)
